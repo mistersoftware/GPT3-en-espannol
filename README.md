@@ -25,11 +25,11 @@
 1. Trabajo relacionado
 1. Conclusión
 
-[![](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
-
 # Resumen
 
 ## Trabajos recientes han demostrado grandes avances en tareas de procesamiento de lenguaje natural (PLN ó NLP en inglés) y en muchas comparativas (_benchmarks_) y  mediante el pre-entrenamiento sobre un gran corpus de texto, seguido de _fine-tuning_ sobre una tarea específica. 
+
+[![](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
 
 
 > Si bien la arquitectura es agnostica o independiente de la tarea, este método aún requiere _[fine-tuning](#)_ sobre _datasets_ de miles o decenas de miles de ejemplos. En contraste, los humanos pueden realizar una tarea nueva de lenguaje a partir de solo algunos ejemplos o instrucciones simples, -- _algo que los sistemas de PNL actuales todavía tienen muchas dificultades para hacer_ --. Aquí mostramos que al _escalar_ el tamaño del modelo se obtiene una gran mejora en el rendimiento en la modalidad de pocos intentos (_few shots_), a veces alcanzando incluso niveles de competitividad con enfoques anteriores de vanguardia. Específicamente, entrenamos GPT-3, un modelo de lenguaje autoregresivo (_transformer_) con 175 mil millones de parámetros, 10 veces más que cualquier modelo anterior no disperso (_non-sparse_), y probamos su rendimiento en la configuración _few shots_. 
