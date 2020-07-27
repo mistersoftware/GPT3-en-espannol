@@ -7,3 +7,6 @@ Si bien la arquitectura es agnostica o independiente de la tarea, este método a
 Para todas las tareas, se aplica [GPT-3](#) sin ajuste del gradiente o _fine tunning_ demostrando la interacción del texto con el modelo. GPT-3 alcanza un alto rendimiento en diferentes _datasets_ de NLP, incluyendo tareas de traducción, responder preguntas, así como varias tareas que requieren razonamiento sobre la marcha o adaptación de dominio, tales como descifrar palabras, usar una palabra nueva en una oración, o realizar aritmética de 3 dígitos. 
 
 Al mismo tiempo, también identificamos algunos _datasets_ donde el aprendizaje de _few shots_ de GPT-3 todavía tiene dificultades, así como algunos _datasets_ donde GPT-3 enfrenta problemas metodológicos relacionados con el entrenamiento basado en corpora de la web. Finalmente, encontramos que GPT-3 puede generar muestras de artículos de noticias dificiles de distinguir por evaluadores humanos. Discutimos ademas los impactos sociales más amplios de este hallazgo y de GPT-3 en general.
+
+
+[![](https://static.platzi.com/media/user_upload/EdGTFTcUMAEqlXf-1ff13759-a314-4e29-8099-ec229a12723c.jpg)](https://platzi.com/comunidad/mckay-wrigley-chateando-con-openai-gpt-3/)
