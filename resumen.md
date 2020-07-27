@@ -1,4 +1,4 @@
-## Trabajos recientes han demostrado grandes avances en tareas de procesamiento de lenguaje natural (PLN ó NLP en inglés) y en muchos comparativas (_benchmarks_) y  mediante el pre-entrenamiento sobre un gran corpus de texto seguido de un ajuste más preciso sobre una tarea específica. 
+## Trabajos recientes han demostrado grandes avances en tareas de procesamiento de lenguaje natural (PLN ó NLP en inglés) y en muchas comparativas (_benchmarks_) y  mediante el pre-entrenamiento sobre un gran corpus de texto, seguido de _fine-tuning_ sobre una tarea específica. 
 
 Si bien la arquitectura es agnostica o independiente de la tarea, este método aún requiere _[fine-tuning](#)_ sobre _datasets_ de miles o decenas de miles de ejemplos. En contraste, los humanos pueden realizar una tarea nueva de lenguaje a partir de solo algunos ejemplos o instrucciones simples, -- _algo que los sistemas de PNL actuales todavía tienen muchas dificultades para hacer_ --. 
 
