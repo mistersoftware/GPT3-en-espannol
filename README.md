@@ -1,6 +1,4 @@
-[![](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
-
-## Indice de Contenidos
+# Indice de Contenidos
 
 1. Introducción
 1. Enfoque
@@ -26,6 +24,8 @@
 	3. Uso de energía
 1. Trabajo relacionado
 1. Conclusión
+
+[![](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
 
 # Resumen
 
