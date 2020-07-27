@@ -14,15 +14,7 @@ Al mismo tiempo, también identificamos algunos _datasets_ donde el aprendizaje 
 
 Finalmente, encontramos que GPT-3 puede generar muestras de [artículos de noticias](https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements) dificiles de distinguir por evaluadores humanos. Discutimos ademas los impactos sociales más amplios de este hallazgo y de GPT-3 en general.
 
-[![](https://static.platzi.com/media/user_upload/EdGTFTcUMAEqlXf-1ff13759-a314-4e29-8099-ec229a12723c.jpg)](https://platzi.com/comunidad/mckay-wrigley-chateando-con-openai-gpt-3/)
 
-### Te recomiendo ver este video de dot.csv
-
-[![x](https://i1.ytimg.com/vi/cTQiN9dewIg/mqdefault.jpg "mqdefault")](https://www.youtube.com/watch?v=cTQiN9dewIg)
-
-`@[vimeo](427943407|https://vimeo.com/427943407)`
-
-`@[youtube](cTQiN9dewIg|https://www.youtube.com/watch?v=cTQiN9dewIg)`
 
 
 
