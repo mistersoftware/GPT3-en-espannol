@@ -1,4 +1,4 @@
-[![nHHIIR07Si](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif]((https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/))
+[![nHHIIR07Si](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
 
 
 
