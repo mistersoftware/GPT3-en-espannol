@@ -1,6 +1,6 @@
 # Indice de Contenidos
 
-1. Introducción
+1. [Introducción](https://github.com/mistersoftware/GPT3-en-espannol/blob/master/01-Introduccion.md)
 1. Enfoque
 	1. Modelo y arquitecturas
 	1. Datasets de entrenamiento
