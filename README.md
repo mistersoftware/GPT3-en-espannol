@@ -1,4 +1,5 @@
-[![video](https://user-images.githubusercontent.com/12854504/88527139-7e6e8a00-cfc2-11ea-8257-731940fbf78e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
+[![nHHIIR07Si](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif]((https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/))
+
 
 
 ## Trabajos recientes han demostrado grandes avances en tareas de procesamiento de lenguaje natural (PLN ó NLP en inglés) y en muchas comparativas (_benchmarks_) y  mediante el pre-entrenamiento sobre un gran corpus de texto, seguido de _fine-tuning_ sobre una tarea específica. 
